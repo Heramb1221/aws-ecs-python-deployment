@@ -25,17 +25,16 @@ To build, containerize, and deploy a Flask web application in a production-ready
 ## 📸 Deployment Proof
 
 ### 1. Local Container Testing
-[Local Test](<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/6585819c-6fa9-495e-bb07-6e82cac25389" />)
+<img width="1917" height="970" alt="Local Test" src="https://github.com/user-attachments/assets/6585819c-6fa9-495e-bb07-6e82cac25389" />
 
 ### 2. AWS ECR Repository
-[ECR Repo](<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/fc0738d8-ffb1-4ed5-86bb-f6dafb7ab09f" />)
+<img width="1917" height="867" alt="ECR Repo" src="https://github.com/user-attachments/assets/fc0738d8-ffb1-4ed5-86bb-f6dafb7ab09f" />
 
 ### 3. AWS ECS Service Running
-[ECS Service](<img width="1917" height="862" alt="Screenshot 2026-07-07 113057" src="https://github.com/user-attachments/assets/e32d0568-ad8e-4a8d-9bdf-4716d8b11ff8" />)
+<img width="1917" height="862" alt="ECS Service" src="https://github.com/user-attachments/assets/e32d0568-ad8e-4a8d-9bdf-4716d8b11ff8" />
 
 ### 4. Live Browser Access
-[Browser Output](<img width="1917" height="971" alt="Screenshot 2026-07-07 112834" src="https://github.com/user-attachments/assets/eace7fd6-cc8a-4bb2-a6c5-2534ee82af43" />)
-
+<img width="1917" height="971" alt="Browser Output" src="https://github.com/user-attachments/assets/eace7fd6-cc8a-4bb2-a6c5-2534ee82af43" />
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
