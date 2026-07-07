@@ -92,17 +92,6 @@ Verification that the public-facing endpoint resolves globally via the Fargate t
 <img width="1917" height="971" alt="Browser Output" src="https://github.com/user-attachments/assets/eace7fd6-cc8a-4bb2-a6c5-2534ee82af43" />
 
 ---
-
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-   \`\`\`bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
-   \`\`\`
-2. Build the Docker image:
-   \`\`\`bash
-   docker build -t flask-ecs-app .
    \`\`\`
 3. Run the container:
    \`\`\`bash
