@@ -42,14 +42,6 @@ Cloud Provider: Amazon Web Services (AWS)
 
 AWS Services: Amazon ECR, Amazon ECS (Fargate Compute)
 
-📂 Project Structure
-Plaintext
-.
-├── app.py                # Main Flask application with custom endpoints
-├── Dockerfile            # Multi-layer Docker configuration file
-├── requirements.txt      # Bound Python application dependencies
-├── README.md             # Project documentation and architectural overview
-└── images/               # Production deployment verification assets
 📸 Deployment Proof (Deliverables)
 1. Local Container Testing
 Verification that the container builds perfectly and processes requests locally on port 5000.
